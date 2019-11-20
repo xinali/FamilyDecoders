@@ -6,7 +6,7 @@ from idautils import *
 from struct import unpack, pack
 
 """
-palevo/zusy家族解密 by xina1i
+winsoft 家族解密 by xina1i
 
 存在大量无用的混淆代码，分析时需要注意主要解密语句
 该家族的这个版本的解密方法，都是通过加密数据直接+/-/^一个key解密

@@ -6,7 +6,7 @@ from idautils import *
 from struct import unpack, pack
 
 """
-palevo/zusy家族解密 by xina1i
+winsoft 家族解密 by xina1i
 
 目前该家族有部分是未加密直接使用c2或者关键数据的，还有相当大一部分是使用该加解密方法
 
